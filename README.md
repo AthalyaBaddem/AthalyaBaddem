@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baddem Athalya</h1>
 <h3 align="center">High Motivated 4th-year B.Tech student in Information Technology with a 9.0 CGPA and strong foundation in programming, data structures. Experienced in building responsive web applications using HTML, CSS, Bootstrap, and MySQL. Completed real-time projects involving user validation and dynamic interfaces. Currently upskilling through NxtWave’s CCBP 4.0 Academy. Eager to contribute to innovative projects and grow in collaborative tech environments</h3>
 
-- 🔭 I’m currently working on [Building responsive web applications with a focus on secure user input and dynamic interfaces; currently learning advanced programming concepts through NxtWave’s CCBP 4.0 Academy.](Building responsive web applications with a focus on secure user input and dynamic interfaces; currently learning advanced programming concepts through NxtWave’s CCBP 4.0 Academy.)
+- 🔭 I’m currently working on Building responsive web applications with a focus on secure user input and dynamic interfaces; currently learning advanced programming concepts through NxtWave’s CCBP 4.0 Academy Building responsive web applications with a focus on secure user input and dynamic interfaces; currently learning advanced programming concepts through NxtWave’s CCBP 4.0 Academy
 
 - 🌱 I’m currently learning ** Advanced programming (C, Python, Java), data structures, and web technologies (HTML, CSS, Bootstrap) — also strengthening project management and performance optimization skills.**
 
-- 👯 I’m looking for Internships [Opportunities to work on innovative web development projects, internships, and collaborative tech environments where I can apply and expand my skills.](Opportunities to work on innovative web development projects, internships, and collaborative tech environments where I can apply and expand my skills.)
+- 👯 I’m looking for Internships Opportunities to work on innovative web development projects, internships, and collaborative tech environments where I can apply and expand my skills.(Opportunities to work on innovative web development projects, internships, and collaborative tech environments where I can apply and expand my skills.)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AthalyaBaddem](https://github.com/AthalyaBaddem)
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about ** Form validation, responsive web design, input security, teamwork in web projects, and building dynamic user interfaces.**
 
-- 📫 How to reach me ** 📧 baddem75@gmail.com
-                        📱 +91 7794960977
-                        🌐 LinkedIn**
+- 📫 How to reach me **📧 baddem75@gmail.com
+                       📱 +91 7794960977
+                       🌐 LinkedIn**
 
 - 📄 Know about my experiences [Web Development Intern — built secure, responsive interfaces; certifications in Python Fundamentals (SoloLearn), Web Development (Plasmid), and Project Management (Coursera); real-time projects improving user experience and data accuracy and currently doing internships.](Web Development Intern — built secure, responsive interfaces; certifications in Python Fundamentals (SoloLearn), Web Development (Plasmid), and Project Management (Coursera); real-time projects improving user experience and data accuracy and currently doing internships.)
 
